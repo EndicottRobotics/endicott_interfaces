@@ -137,13 +137,13 @@
 			{
 				"command" : 7,
 				"file" : 0,
-				"line" : 273,
+				"line" : 229,
 				"parent" : 4
 			},
 			{
 				"command" : 7,
 				"file" : 0,
-				"line" : 229,
+				"line" : 273,
 				"parent" : 4
 			},
 			{
@@ -352,23 +352,23 @@
 	[
 		{
 			"backtrace" : 17,
-			"id" : "endicott_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 18,
-			"id" : "endicott_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 7,
-			"id" : "endicott_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 18,
 			"id" : "endicott_interfaces__py::@7ec728507cf42ef8aeb9"
 		},
 		{
 			"backtrace" : 7,
 			"id" : "endicott_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "endicott_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "endicott_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "endicott_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "endicott_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",

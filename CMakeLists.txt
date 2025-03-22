@@ -16,6 +16,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MoveStatus.msg"
   DEPENDENCIES std_msgs
 )
+ament_export_dependencies(rosidl_default_runtime)
+#rosidl_get_typesupport_target(cpp_typesupport_target "${PROJECT_NAME}" "rosidl_typesupport_cpp")
 
 # Install directories for ROS 2
 #install(
